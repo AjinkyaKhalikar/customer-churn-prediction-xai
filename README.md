@@ -193,8 +193,8 @@ churn-xai/
 
 ```bash
 # Clone the repo
-git clone https://github.com/AjinkyaKhalikar/churn-prediction-xai.git
-cd churn-prediction-xai
+git clone https://github.com/AjinkyaKhalikar/customer-churn-prediction-xai.git
+cd customer-churn-prediction-xai
 
 # Install dependencies
 pip install xgboost shap scikit-learn pandas numpy matplotlib seaborn
