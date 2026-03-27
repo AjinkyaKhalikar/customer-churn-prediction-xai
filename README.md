@@ -211,9 +211,9 @@ jupyter notebook churn_prediction_with_XAI.ipynb
 
 - Apply SHAP to deep learning models (DeepExplainer / GradientExplainer)
 - Add SHAP interaction values to detect feature pair effects
+- Integrate NLP for interaction(Chat-bot)
 - Build a Streamlit dashboard for real-time churn explanation
 - Hyperparameter tuning to push accuracy beyond 84%
-- Explore LIME as an alternative local explainability method
 
 ---
 
